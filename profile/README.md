@@ -1,4 +1,4 @@
-<img src="./ConfluxDAO.png" />
+<img src="./image/ConfluxDAO.png" />
 
 # Hey, this is ConfluxDAO developer community 👋
 
