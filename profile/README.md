@@ -8,7 +8,6 @@
 More links about ConfluxDAO:
  - [ConfluxDAO Website](https://confluxdao.org/)
  - [ConfluxDAO Twitter](https://twitter.com/ConfluxDAO) 
- - [ConfluxDAO Discord](https://discord.confluxdao.org)
  - [Conflux Website](https://confluxnetwork.org)
  - [Conflux Twitter](https://x.com/conflux-chain)
  - [ConfluxFans Github](https://github.com/conflux-fans) 
