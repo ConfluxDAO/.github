@@ -11,7 +11,7 @@ More links about ConfluxDAO:
  - [Conflux Website](https://confluxnetwork.org)
  - [Conflux Twitter](https://x.com/conflux-chain)
  - [ConfluxFans Github](https://github.com/conflux-fans)
- - [ConfluxDevs Twitter](https://x.com/conflux-chain)
+ - [ConfluxDevs Twitter](https://x.com/confluxdevs)
  - [FansCoin Twitter](https://x.com/fanscoin)
  - [FansCoin Website](https://fanscoin.org)
 
