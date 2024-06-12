@@ -15,6 +15,13 @@ More links about ConfluxDAO:
  - [FansCoin Twitter](https://x.com/fanscoin)
  - [FansCoin Website](https://fanscoin.org)
 
+<h1></h1>
+<h3 align='center'>
+  <a href="https://confluxdocs.com/">
+    Conflux Developer Documentation
+  </a>
+</h3>
+
 <!--
 [![Join our Discord server!](https://invidget.switchblade.xyz/confluxDAO)](http://discord.gg/confluxDAO)
 
