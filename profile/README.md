@@ -1,6 +1,16 @@
 <img src="../images/ConfluxDAO.png" />
 
+
+```
+            ______   ______   __   __   ______  __       __  __   __  __       _____    ______   ______    
+           /\  ___\ /\  __ \ /\ "-.\ \ /\  ___\/\ \     /\ \/\ \ /\_\_\_\     /\  __-. /\  __ \ /\  __ \   
+           \ \ \____\ \ \/\ \\ \ \-.  \\ \  __\\ \ \____\ \ \_\ \\/_/\_\/_    \ \ \/\ \\ \  __ \\ \ \/\ \  
+            \ \_____\\ \_____\\ \_\\"\_\\ \_\   \ \_____\\ \_____\ /\_\/\_\    \ \____- \ \_\ \_\\ \_____\ 
+             \/_____/ \/_____/ \/_/ \/_/ \/_/    \/_____/ \/_____/ \/_/\/_/     \/____/  \/_/\/_/ \/_____/ 
+```
+
 # Hey, this is ConfluxDAO developer community 👋
+
 
 **ConfluxDAO** is a decentralized autonomous organization dedicated to building Conflux ecosystem and community, <br/> **Governed by Conflux Fans, each FC/CFX holder is a part of us.**
 <br/>Our mission: Gather the power of Conflux community to buidl and support valuable Web3 projects sustainably and welcome 1 billion users into Web3.
