@@ -12,18 +12,18 @@
 # Hey, this is ConfluxDAO developer community 👋
 
 
-**ConfluxDAO** is a decentralized autonomous organization dedicated to building Conflux ecosystem and community, <br/> **Governed by Conflux Fans, each FC/CFX holder is a part of us.**
+**ConfluxDAO** is a decentralized autonomous organization dedicated to building Public Goods, Conflux ecosystem and community, <br/> **Governed by Conflux Fans, each [FC](https://www.confluxscan.io/token/cfx:achc8nxj7r451c223m18w2dwjnmhkd6rxawrvkvsy2?tab=holders) / [CFX](https://coinmarketcap.com/currencies/conflux-network/) holder is a part of us.**
 <br/>Our mission: Gather the power of Conflux community to buidl and support valuable Web3 projects sustainably and welcome 1 billion users into Web3.
 
 More links about ConfluxDAO:
  - [ConfluxDAO Website](https://confluxdao.org/)
- - [ConfluxDAO Twitter](https://twitter.com/ConfluxDAO) 
+ - [ConfluxDAO 𝕏](https://twitter.com/ConfluxDAO) 
  - [Conflux Website](https://confluxnetwork.org)
- - [Conflux Twitter](https://x.com/conflux-chain)
+ - [Conflux 𝕏](https://x.com/conflux-chain)
  - [ConfluxFans Github](https://github.com/conflux-fans)
- - [ConfluxDevs Twitter](https://x.com/confluxdevs)
- - [FansCoin Twitter](https://x.com/fanscoin)
- - [FansCoin Website](https://fanscoin.org)
+ - [ConfluxDevs 𝕏](https://x.com/confluxdevs)
+ - [Fanscoin 𝕏](https://x.com/fanscoin)
+ - [Fanscoin Website](https://fanscoin.org)
 
 <h1></h1>
 <h3 align='center'>
