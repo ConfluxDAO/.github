@@ -23,7 +23,6 @@ More links about ConfluxDAO:
  - [ConfluxFans Github](https://github.com/conflux-fans)
  - [ConfluxDevs 𝕏](https://x.com/confluxdevs)
  - [Fanscoin 𝕏](https://x.com/fanscoin)
- - [Fanscoin Website](https://fanscoin.org)
 
 <h1></h1>
 <h3 align='center'>
